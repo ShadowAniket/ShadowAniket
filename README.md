@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShadowAniket
 - 👀 I’m interested in trying new things
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning js and php
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me message me
 - ⚡ Fun fact: Its me vs me
