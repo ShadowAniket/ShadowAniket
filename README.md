@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me message me
 - ⚡ Fun fact: Its me vs me
+- 💞️ Will upload more projects soon.
 
 <!---
 ShadowAniket/ShadowAniket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
