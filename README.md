@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning js and php
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me message me
-- ⚡ Fun fact: Its me vs me
+- ⚡ Student
 - 💞️ Will upload more projects soon.
 
 <!---
