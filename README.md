@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/31cba03f-d905-43fa-a70a-a24713f5940f)<!-- Welcome Section -->
+(https://github.com/user-attachments/assets/31cba03f-d905-43fa-a70a-a24713f5940f)<!-- Welcome Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEduW4DXB2HqIsCJq/giphy.gif" width="600" height="300"/>
+  <img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" width="600" height="300"/>
 </div>
 
 # 👋 Hello, I'm [Aniket!](https://github.com/ShadowAniket)
