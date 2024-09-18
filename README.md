@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @ShadowAniket
-- 👀 I’m interested in trying new things
-- 🌱 I’m currently learning js and php
-- 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me message me
-- ⚡ Student
-- 💞️ Will upload more projects soon.
+![image](https://github.com/user-attachments/assets/31cba03f-d905-43fa-a70a-a24713f5940f)<!-- Welcome Section -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEduW4DXB2HqIsCJq/giphy.gif" width="600" height="300"/>
+</div>
 
-<!---
-ShadowAniket/ShadowAniket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hello, I'm [Aniket!](https://github.com/ShadowAniket)
+
+🌟 **Coding Enthusiast | Problem Solver | Open Source Advocate** 🌟
+
+---
+
+### 🚀 About Me
+- 💻 **Tech Explorer** who loves diving into **Python**, **Django**, and **AI** projects.
+- 🎓 Passionate about building impactful systems like **Face Recognition for College Attendance**.
+- 📖 Always curious and learning, especially about **Machine Learning**, **Deep Learning**, and **Automation**.
+- ✍️ Sharing knowledge through open source contributions and **well-crafted solutions**.
+  
+---
+
+### 🛠️ My Tech Stack
+```yaml
+Programming Languages: 
+  - Python 🐍
+  - JavaScript ☕
+  - HTML/CSS 🌐
+  - SQL 💾
+  - Java 🧋
+Frameworks & Libraries:
+  - Django 🚀
+  - Flask 🌶️
+  - TensorFlow 🤖
+  - Pygame 🎮
+  - Unrealengine 5 🎮
