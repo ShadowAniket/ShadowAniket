@@ -59,14 +59,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Aniket-Asawale&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🌱 What I'm Building
 
 - 🧠 **Generative AI** — LLM-based tools & fine-tuning experiments
